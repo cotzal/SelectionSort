@@ -20,6 +20,8 @@ public class Main {
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!! no cal dir res mes");
+        
         System.out.println("Introdueix la mida de l'array: ");
         int size = scanner.nextInt();
 
